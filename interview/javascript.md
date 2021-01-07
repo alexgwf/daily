@@ -349,7 +349,19 @@ machine('ygy').waitFirst(5).do('eat').execute();
 134. [实现一个简单的路由。](https://github.com/pwstrick/daily/issues/856)
 135. [封装鼠标拖拽的功能。](https://github.com/pwstrick/daily/issues/857)
 136. [如何让两个非常大的数字相加？](https://github.com/pwstrick/daily/issues/859)
-
+137. [宏任务和微任务是指什么？](https://github.com/pwstrick/daily/issues/939)
+138. [实现预加载和懒加载。](https://github.com/pwstrick/daily/issues/945)
+139. [如何用Ajax实现大文件上传？](https://github.com/pwstrick/daily/issues/958)
+140. [如何用JavaScript实现两个大数的相加？](https://github.com/pwstrick/daily/issues/963)
+141. [ES6的模块和CommonJS模块的对比](https://github.com/pwstrick/daily/issues/964)
+142. [模拟Object.create()方法。](https://github.com/pwstrick/daily/issues/967)
+143. [实现JSON.parse()方法。](https://github.com/pwstrick/daily/issues/968)
+144. [setTimeout背后的原理是怎么样的？](https://github.com/pwstrick/daily/issues/969)
+145. [如果实现前端截图？](https://github.com/pwstrick/daily/issues/970)
+146. [setTimeOut 和 setInterval 底层有哪些区别？](https://github.com/pwstrick/daily/issues/971)
+147. [在CORS跨域请求时，什么情况下会发两次请求？](https://github.com/pwstrick/daily/issues/972)
+148. [在CORS跨域请求时，需要携带cookie，得做哪些配置？](https://github.com/pwstrick/daily/issues/973)
+149. [如何实现并发请求？](https://github.com/pwstrick/daily/issues/977)
 
 ## 思维导图
 ![JavaScript](https://github.com/pwstrick/daily/blob/master/assets/img/mind/JavaScript.png)
